@@ -1,0 +1,21 @@
+.penguin-intro h1 {
+    font-family: 'Bebas Neue', cursive;
+    font-size: 80px;
+}
+
+.text-color-orange {
+    color: #FABE4C;
+}
+
+.text-color-navy-blue {
+    color: #363958;
+}
+
+.penguin-button {
+    background: linear-gradient(180deg, #A4BC46 0%, #85A019 100%);
+}
+
+.penguin-button {
+    background: linear-gradient(180deg, #A4BC46 0%, #85A019 100%);
+    border: 0px;
+}
