@@ -1,3 +1,11 @@
+header {
+    background-color: #FFFBF0;
+}
+
+.penguin-nav {
+    background-color: #FFFBF0;
+}
+
 .penguin-intro h1 {
     font-family: 'Bebas Neue';
     font-size: 80px;
@@ -37,4 +45,18 @@ section h1 {
 
 .jacket {
     border: 0;
+}
+
+.text-color-red {
+    color: rgb(226, 63, 63);
+}
+
+.penguin-card-footer {
+    background-color: white;
+    border: 0;
+}
+
+.last-part {
+    font-family: 'Bebas Neue';
+    text-align: center;
 }
